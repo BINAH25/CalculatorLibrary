@@ -15,3 +15,6 @@ class TestCalculator:
 
     def test_multiplication(self):
         assert 100 == calaculator.multiply(10, 10)
+
+
+# Ensure the file ends with a newline
